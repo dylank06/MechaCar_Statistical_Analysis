@@ -43,7 +43,11 @@ Grouped by Manufacturing_Lot:
 ![Screen Shot 2021-01-28 at 12 58 51 PM](https://user-images.githubusercontent.com/16258584/106185982-3eeb4b00-6169-11eb-8381-1b56f5328aba.png)
 ![Screen Shot 2021-01-28 at 12 57 54 PM](https://user-images.githubusercontent.com/16258584/106185992-401c7800-6169-11eb-8504-d1a96af1753d.png)
 
+# Study Desin: MechaCar vs Competition 
 
+Is the average MechaCar MPG different from the competition 
 
+H0: There is no difference between MechaCar's MPG vs the competition 
+Ha: There is a difference between MechaCar's MPG vs the competition 
 
-
+Test: T-Test, comparing the average if the P_Value is less than the alpha then we can reject the null hypthesis and state that the observed difference is statistically significant.
