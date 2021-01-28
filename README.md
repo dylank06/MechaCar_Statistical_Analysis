@@ -2,8 +2,6 @@
 
 ## Linear Regression to Predict MPG
 
-TODO : and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
-
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
     - The vehical weight had a non-random level of significance because it had a P-Value of 0.07756
@@ -15,6 +13,9 @@ TODO : and write a short summary using a screenshot of the output from the linea
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
     
     - The linear model predicts mpg of MechaCar prototypes effectively becasue the R-squared value of 0.7149, and the p-value of 5.35e-11 can not be explained by randomness or errors. Using this linear regression model would be effective in predicting future data points. 
+    
+    ![Screen Shot 2021-01-27 at 9 03 15 PM](https://user-images.githubusercontent.com/16258584/106178543-84a31600-615f-11eb-8c23-7475090deff4.png)
+
 
 ## Summary Statistics on Suspension Coils
 
