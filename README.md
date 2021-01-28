@@ -37,6 +37,7 @@ Grouped by Manufacturing_Lot:
 - Summary: Looking at the P-Values from the T-Tests there was little to no signifigance from most of the test. The most signifigant sample was from lot 3 with a P-Value of .04. This measure shows that there is normal significant difference between the means of the two groups.
 
 - T-Tests results 
+
 ![Screen Shot 2021-01-28 at 12 58 27 PM](https://user-images.githubusercontent.com/16258584/106185967-398e0080-6169-11eb-9a8b-5c29c3b367c6.png)
 ![Screen Shot 2021-01-28 at 12 58 38 PM](https://user-images.githubusercontent.com/16258584/106185978-3d218780-6169-11eb-8817-6b9cf3dacfcb.png)
 ![Screen Shot 2021-01-28 at 12 58 51 PM](https://user-images.githubusercontent.com/16258584/106185982-3eeb4b00-6169-11eb-8381-1b56f5328aba.png)
