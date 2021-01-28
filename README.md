@@ -31,3 +31,6 @@ Grouped by Total:
 Grouped by Manufacturing_Lot:
 
 ![Screen Shot 2021-01-28 at 11 45 45 AM](https://user-images.githubusercontent.com/16258584/106178926-f4b19c00-615f-11eb-8103-fcd5b5941219.png)
+
+## T-Tests on Suspension Coils 
+then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
