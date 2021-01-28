@@ -33,4 +33,16 @@ Grouped by Manufacturing_Lot:
 ![Screen Shot 2021-01-28 at 11 45 45 AM](https://user-images.githubusercontent.com/16258584/106178926-f4b19c00-615f-11eb-8103-fcd5b5941219.png)
 
 ## T-Tests on Suspension Coils 
-then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
+- Summary: Looking at the P-Values from the T-Tests there was little to no signifigance from most of the test. The most signifigant sample was from lot 3 with a P-Value of .04. This measure shows that there is normal significant difference between the means of the two groups.
+
+- T-Tests results 
+![Screen Shot 2021-01-28 at 12 58 27 PM](https://user-images.githubusercontent.com/16258584/106185967-398e0080-6169-11eb-9a8b-5c29c3b367c6.png)
+![Screen Shot 2021-01-28 at 12 58 38 PM](https://user-images.githubusercontent.com/16258584/106185978-3d218780-6169-11eb-8817-6b9cf3dacfcb.png)
+![Screen Shot 2021-01-28 at 12 58 51 PM](https://user-images.githubusercontent.com/16258584/106185982-3eeb4b00-6169-11eb-8381-1b56f5328aba.png)
+![Screen Shot 2021-01-28 at 12 57 54 PM](https://user-images.githubusercontent.com/16258584/106185992-401c7800-6169-11eb-8504-d1a96af1753d.png)
+
+
+
+
+
