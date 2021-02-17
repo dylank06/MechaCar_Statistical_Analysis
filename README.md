@@ -1,5 +1,9 @@
 # MechaCar_Statistical_Analysis
 
+## Summary
+
+Utilized statistics and hypothesis testing to analyze a series of datasets from the automotive industry. Analysis includes visualizations, statistical tests, and interpretations of the results. The statistical analysis and visualizations are written in the R programming language.
+
 ## Linear Regression to Predict MPG
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
