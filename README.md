@@ -2,7 +2,25 @@
 
 ## Summary
 
-Utilized statistics and hypothesis testing to analyze a series of datasets from the automotive industry. Analysis includes visualizations, statistical tests, and interpretations of the results. The statistical analysis and visualizations are written in the R programming language.
+- Utilized statistics and hypothesis testing to analyze a series of datasets from the automotive industry. Analysis includes visualizations, statistical tests, and interpretations of the results. The statistical analysis and visualizations are written in the R programming language. The Projectt demonstrates knowlege of the ETL process to visualize the data and analyze the data using R
+
+## Overview of Analysis
+
+### Linear Reegression to Predict MPG
+
+- The MechaCar_mpg.csv dataset contains mpg test results for 50 prototype MechaCars. The MechaCar prototypes were produced using multiple design specifications to identify ideal vehicle performance. Multiple metrics, such as vehicle length, vehicle weight, spoiler angle, drivetrain, and ground clearance, were collected for each vehicle. Used knowledge of R, to design a linear model that predicts the mpg of MechaCar prototypes using several variables from the MechaCar_mpg.csv file.
+
+### Create Visualizations for the Trip Analysis
+
+- The MechaCar Suspension_Coil.csv dataset contains the results from multiple production lots. In this dataset, the weight capacities of multiple suspension coils were tested to determine if the manufacturing process is consistent across production lots. Created a summary statistics table to show:
+    - The suspension coil’s PSI continuous variable across all manufacturing lots
+    - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
+ 
+## T-Tests on Suspension Coils 
+
+-Used R to perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+ 
+## Results 
 
 ## Linear Regression to Predict MPG
 
