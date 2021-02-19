@@ -16,9 +16,9 @@
     - The suspension coil’s PSI continuous variable across all manufacturing lots
     - The following PSI metrics for each lot: mean, median, variance, and standard deviation.
  
-## T-Tests on Suspension Coils 
+### T-Tests on Suspension Coils 
 
--Used R to perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
+- Used R to perform t-tests to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.
  
 ## Results 
 
